@@ -5,5 +5,8 @@
   "author": "rhogeranacleto@gmail.com",
   "license": "MIT",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "terminal-kit": "^3.0.0"
+  }
 }
